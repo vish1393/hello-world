@@ -1,6 +1,6 @@
 # hello-world
 
-# This is Vishwas Vishwas Sampath
+# This is Vishwas Sampath
 
 Hope everything is working fine..!!
 
